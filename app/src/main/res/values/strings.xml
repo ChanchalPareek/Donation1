@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1 InClass</string>
+    <string name="action_view_donations">View Donations</string>
+    <string name="totalTitle"></string>
+</resources>
